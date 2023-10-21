@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "contents/hr.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "contents/hr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "contents/hr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "contents/hr.md"
               }
             }
           }
@@ -173,13 +173,13 @@
   },
   "active": "c9bca15b0ef1f2da",
   "lastOpenFiles": [
-    "contents/TextBox.md",
-    "README.md",
-    "contents/BlockQuote.md",
-    "BlockQuote.md",
     "contents/List.md",
-    "contents/특수문자.md",
+    "contents/BlockQuote.md",
     "contents/hr.md",
+    "README.md",
+    "contents/TextBox.md",
+    "BlockQuote.md",
+    "contents/특수문자.md",
     "images/horizon.png",
     "새 텍스트 문서.txt",
     "contents/제목.md",
