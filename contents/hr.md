@@ -1,4 +1,4 @@
-일명 [호라이즌](contents/explains/horizon)
+일명 [호라이즌](/contents/explains/horizon.md)
 
 ```
 ***

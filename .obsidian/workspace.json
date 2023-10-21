@@ -8,36 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1bb86ea71f027f6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "contents/List.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9bca15b0ef1f2da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "contents/hr.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "dfae47c520573c82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "contents/TextBox.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d602a5bc431108c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "contents/hr.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "contents/hr.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "contents/hr.md"
+                "file": "README.md"
               }
             }
           }
@@ -171,20 +159,21 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c9bca15b0ef1f2da",
+  "active": "9d602a5bc431108c",
   "lastOpenFiles": [
-    "contents/List.md",
-    "contents/BlockQuote.md",
-    "contents/hr.md",
+    "contents/개행.md",
+    "contents/제목.md",
     "README.md",
-    "contents/TextBox.md",
     "BlockQuote.md",
+    "contents/TextBox.md",
+    "contents/explains/horizon.md",
+    "contents/hr.md",
+    "contents/BlockQuote.md",
+    "contents/List.md",
     "contents/특수문자.md",
     "images/horizon.png",
     "새 텍스트 문서.txt",
-    "contents/제목.md",
     "().md",
-    "contents/explains/horizon.md",
     "contents/horizon.md",
     "explains/horizon.md",
     "explains",
