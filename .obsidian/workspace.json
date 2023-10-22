@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "9d602a5bc431108c",
+            "id": "688f84ce72279bc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c4a5bef55d65e0b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "contents/링크.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "contents/링크.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "contents/링크.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "contents/링크.md"
               }
             }
           }
@@ -159,13 +171,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9d602a5bc431108c",
+  "active": "c4a5bef55d65e0b8",
   "lastOpenFiles": [
+    "README.md",
+    "contents/링크.md",
+    "contents/CodeBox.md",
+    "contents/TextBox 1.md",
     "contents/개행.md",
     "contents/제목.md",
-    "README.md",
     "BlockQuote.md",
-    "contents/TextBox.md",
     "contents/explains/horizon.md",
     "contents/hr.md",
     "contents/BlockQuote.md",
